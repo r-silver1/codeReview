@@ -1,0 +1,2 @@
+This is a sample file
+it is to be used with fileinput stream for error handling
