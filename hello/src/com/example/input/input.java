@@ -40,7 +40,14 @@ public class input {
 
 
         char[] readArr = new char[1024];
-        File file2 = new File("..\\hello\\sampleFile.txt");
+        //test current path
+        File pathFile = new File(".");
+        String path1 = pathFile.getAbsolutePath();
+        path1 = path1.substring(0, path1.length()-1);
+        String path2 = "hello\\sampleFile.txt";
+        System.out.println(path1+path2);
+
+        File file2 = new File(path1+path2);
         try {
             FileReader fr2 = new FileReader(file2);
             //read file input http://tutorials.jenkov.com/java-io/filereader.html

@@ -5,9 +5,9 @@
 Subsequent components of the package name vary according to an organization's own internal naming conventions. Such conventions might specify that certain directory name components be division, department, project, machine, or login names. */
 package com.example.helloworld;
 
-import com.example.testClass.*;
-import com.example.testVectors.*;
-import com.example.testShapes.*;
+import com.example.bank.testClass.*;
+import com.example.vector.testVectors.*;
+import com.example.shapes.testShapes.*;
 import com.example.input.*;
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//

@@ -6,7 +6,31 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="361c443b-22fa-4a23-9b66-8d95a6cd16dc" name="Default Changelist" comment="" />
+    <list default="true" id="361c443b-22fa-4a23-9b66-8d95a6cd16dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/helloWorld_jar/helloWorld.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/helloWorld_jar/helloWorld.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/PNB_5/PNB_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/SBI_7/SBI_7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/colVector/colVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/helloworld/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/com/example/helloworld/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/input/input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/com/example/input/input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/square/square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/testClass/testClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/testShapes/testShapes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/testVectors/testVectors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/triangle/triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/PNB_5/PNB_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/bank/PNB_5/PNB_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/SBI_7/SBI_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/bank/SBI_7/SBI_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/colVector/colVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/vector/colVector/colVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/input/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/input/input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/square/square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/shapes/square/square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/testClass/testClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/bank/testClass/testClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/testShapes/testShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/shapes/testShapes/testShapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/testVectors/testVectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/vector/testVectors/testVectors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/triangle/triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/shapes/triangle/triangle.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +44,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1kawyEq4lYXxVkjz8zs59EyVlXr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/helloWorld_jar/helloWorld.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -34,6 +63,13 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.bank" />
+      <recent name="com.example.vector" />
+      <recent name="com.example.shapes" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -63,7 +99,7 @@
     </configuration>
     <configuration name="HelloWorldJar" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/helloWorld_jar/helloWorld.jar" />
-      <option name="WORKING_DIRECTORY" value="D:\Scott\Documents\jobs\applied to\revature\sample code\java\hello" />
+      <option name="WORKING_DIRECTORY" value="D:\Scott\Documents\jobs\applied to\revature\codeReview" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="BuildArtifacts" enabled="true">
@@ -95,10 +131,22 @@
       <workItem from="1606003308319" duration="19362000" />
       <workItem from="1606079935223" duration="8182000" />
       <workItem from="1606096085440" duration="2755000" />
+      <workItem from="1606186685108" duration="2141000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
