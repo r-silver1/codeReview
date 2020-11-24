@@ -7,29 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="361c443b-22fa-4a23-9b66-8d95a6cd16dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/helloWorld_jar/helloWorld.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/helloWorld_jar/helloWorld.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/PNB_5/PNB_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/SBI_7/SBI_7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/colVector/colVector.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/helloworld/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/com/example/helloworld/HelloWorld.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/input/input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/helloWorld/com/example/input/input.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/square/square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/testClass/testClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/testShapes/testShapes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/testVectors/testVectors.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/com/example/triangle/triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/PNB_5/PNB_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/bank/PNB_5/PNB_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/SBI_7/SBI_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/bank/SBI_7/SBI_7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/colVector/colVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/vector/colVector/colVector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/input/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/input/input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/square/square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/shapes/square/square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/testClass/testClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/bank/testClass/testClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/testShapes/testShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/shapes/testShapes/testShapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/testVectors/testVectors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/vector/testVectors/testVectors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/triangle/triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/shapes/triangle/triangle.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +113,7 @@
       <workItem from="1606003308319" duration="19362000" />
       <workItem from="1606079935223" duration="8182000" />
       <workItem from="1606096085440" duration="2755000" />
-      <workItem from="1606186685108" duration="2141000" />
+      <workItem from="1606186685108" duration="3362000" />
     </task>
     <servers />
   </component>

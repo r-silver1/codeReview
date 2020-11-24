@@ -9,6 +9,7 @@ import com.example.bank.testClass.*;
 import com.example.vector.testVectors.*;
 import com.example.shapes.testShapes.*;
 import com.example.input.*;
+import com.example.testFunctions.palindrome.*;
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
@@ -36,7 +37,14 @@ public class HelloWorld {
         testShapes.main(argList);
         //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
         //test try-catch with user input for integers and file reading
-        input.main(argList);
+        //input.main(argList);
+        //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+        //palindrome test
+        String pal = "kayak";
+        Boolean palTest = palindrome.isPal(pal);
+        System.out.println("is "+pal+" a palindrome? "+palTest);
+
+
     }
 }
 
